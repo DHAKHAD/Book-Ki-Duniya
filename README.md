@@ -14,7 +14,6 @@ Currently, two official plugins are available:
 
 ```bash
 git clone https://github.com/DHAKHAD/Book-Ki-Duniya.git
-cd figma-ts
 ```
 
 **Installation**
