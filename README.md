@@ -25,6 +25,8 @@ Install the project dependencies using npm:
 ```bash
 npm install
 ```
+This project implements a responsive, interactive carousel in React to showcase a list of free online courses. The project uses the react-slick library, a popular React wrapper for the Slick Carousel library, to create a dynamic, swipeable, and responsive slider that displays course cards filtered from a list of available courses.
+
 **Running the Project**
 
 ```bash
