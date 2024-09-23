@@ -34,6 +34,8 @@ npm run dev
 ```bash
 npm install
 ```
+The BookWorld Backend API is an Express.js-based server designed to manage and serve data related to books and users in a MongoDB database. The project is set up to handle requests related to books and users, such as retrieving data, adding new entries, updating records, and deleting information. The system is structured for scalability, security, and ease of integration with frontend applications through RESTful APIs.
+
 **Running the Project**
 
 ```bash
